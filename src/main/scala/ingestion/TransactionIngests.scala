@@ -1,0 +1,5 @@
+package ingestion
+
+class TransactionIngests {
+
+}

@@ -1,0 +1,5 @@
+package analysers
+
+class TransactionAnalyzer {
+
+}

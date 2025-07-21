@@ -1,0 +1,5 @@
+package cleaners
+
+class TweetsCleaner {
+
+}
